@@ -1,13 +1,21 @@
 {
 	"name": "vsflat",
+	"icon": "vscode.png",
 	"displayName": "VSFlat",
-	"description": "",
-	"version": "0.0.1",
+	"description": "A flat version of the default (Dark+) VSCode theme.",
+	"repository": "https://github.com/plkpawlik/VSFlat",
+	"publisher": "plkpawlik",
+	"author": {
+		"name": "Kamil Pawlik",
+		"email": "pl.kpawlik@gmail.com",
+		"url": "https://github.com/plkpawlik"
+	},
+	"version": "0.1.0",
 	"scripts": {
 		"style": "prettier --write ."
 	},
 	"engines": {
-		"vscode": "^1.86.0"
+		"vscode": "^1.76.0"
 	},
 	"categories": [
 		"Themes"
