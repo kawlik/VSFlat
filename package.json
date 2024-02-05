@@ -1,0 +1,27 @@
+{
+	"name": "vsflat",
+	"displayName": "VSFlat",
+	"description": "",
+	"version": "0.0.1",
+	"scripts": {
+		"style": "prettier --write ."
+	},
+	"engines": {
+		"vscode": "^1.86.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "VSFlat Slate",
+				"uiTheme": "vs-dark",
+				"path": "./themes/VSFlat.slate.json"
+			}
+		]
+	},
+	"devDependencies": {
+		"prettier": "3.2.5"
+	}
+}
