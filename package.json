@@ -22,6 +22,16 @@
 	],
 	"contributes": {
 		"themes": [
+            {
+				"label": "VSFlat",
+				"uiTheme": "vs-dark",
+				"path": "./themes/VSFlat.json"
+			},
+            {
+				"label": "VSFlat Night",
+				"uiTheme": "vs-dark",
+				"path": "./themes/VSFlat.night.json"
+			},
 			{
 				"label": "VSFlat Slate",
 				"uiTheme": "vs-dark",

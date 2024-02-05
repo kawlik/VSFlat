@@ -1,22 +1,22 @@
 {
-	"name": "VSFlat Slate",
+	"name": "VSFlat",
 	"colors": {
-		"activityBar.background": "#3e3e42",
-		"editor.background": "#3e3e42",
-		"editorGroupHeader.tabsBackground": "#3e3e42",
-		"editor.lineHighlightBorder": "#3e3e42",
-		"editor.lineHighlightBackground": "#3e3e42",
-		"editorOverviewRuler.border": "#3e3e42",
-		"panel.border": "#3e3e42",
+		"activityBar.background": "#252526",
+		"editor.background": "#252526",
+		"editorGroupHeader.tabsBackground": "#252526",
+		"editor.lineHighlightBorder": "#252526",
+		"editor.lineHighlightBackground": "#252526",
+		"editorOverviewRuler.border": "#252526",
+		"panel.border": "#252526",
 		"scrollbar.shadow": "#0000",
-		"sideBar.background": "#3e3e42",
-		"sideBarSectionHeader.background": "#3e3e42",
-		"statusBar.background": "#3e3e42",
-		"titleBar.activeBackground": "#3e3e42",
-		"titleBar.inactiveBackground": "#3e3e42",
-		"tab.activeBackground": "#3e3e42",
-		"tab.border": "#3e3e42",
-		"tab.inactiveBackground": "#3e3e42"
+		"sideBar.background": "#252526",
+		"sideBarSectionHeader.background": "#252526",
+		"statusBar.background": "#252526",
+		"titleBar.activeBackground": "#252526",
+		"titleBar.inactiveBackground": "#252526",
+		"tab.activeBackground": "#252526",
+		"tab.border": "#252526",
+		"tab.inactiveBackground": "#252526"
 	},
 	"tokenColors": [
 		{
