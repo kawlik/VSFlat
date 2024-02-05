@@ -10,7 +10,7 @@
 		"email": "pl.kpawlik@gmail.com",
 		"url": "https://github.com/plkpawlik"
 	},
-	"version": "0.2.0",
+	"version": "0.2.1",
 	"scripts": {
 		"style": "prettier --write ."
 	},
@@ -22,12 +22,12 @@
 	],
 	"contributes": {
 		"themes": [
-            {
+			{
 				"label": "VSFlat",
 				"uiTheme": "vs-dark",
 				"path": "./themes/VSFlat.json"
 			},
-            {
+			{
 				"label": "VSFlat Night",
 				"uiTheme": "vs-dark",
 				"path": "./themes/VSFlat.night.json"
