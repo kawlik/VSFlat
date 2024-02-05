@@ -3,16 +3,19 @@
 	"colors": {
 		"activityBar.background": "#252526",
 		"editor.background": "#252526",
+		"editorGroupHeader.tabsBackground": "#252526",
 		"editor.lineHighlightBorder": "#252526",
 		"editor.lineHighlightBackground": "#252526",
 		"editorOverviewRuler.border": "#252526",
 		"panel.border": "#252526",
 		"scrollbar.shadow": "#0000",
 		"sideBar.background": "#252526",
+		"sideBarSectionHeader.background": "#252526",
 		"statusBar.background": "#252526",
 		"titleBar.activeBackground": "#252526",
 		"titleBar.inactiveBackground": "#252526",
 		"tab.activeBackground": "#252526",
+		"tab.border": "#252526",
 		"tab.inactiveBackground": "#252526"
 	},
 	"tokenColors": [
